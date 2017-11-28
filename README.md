@@ -1,4 +1,4 @@
-# IEEE-Soft-Robotics-Conference
+# Design Tool based on SOFA physics Engine for Simulating the Ionic conduct
 Design Tool based on SOFA physics engine Simulation for Soft Miniaturized Actuator 
 This is a design tool based on SOFA physics Engines for simulating the behavior of the ionic conductive polymer actuator. In this files, there are two validated test which is the stiffness test for measuring the youngModulus at different points of the ionic conductive polymer. 
 
